@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Music Genre Classifier using PyTorch
 This repository contains the code and resources for a Music Genre Classification project using the GTZAN dataset. The goal of this project is to classify audio tracks into one of 10 different genres using a machine learning model built with PyTorch.
 
@@ -7,3 +8,6 @@ Data Loading: A custom data loader is implemented to handle audio files, applyin
 Audio Augmentation: The project utilizes a series of audio augmentations such as noise addition, pitch shifting, and reverb to enhance the model's performance and generalization.
 Model Training: The model is trained using PyTorch, leveraging techniques such as data augmentation, batch normalization, and learning rate scheduling.
 
+=======
+# Pytorch_Music_Classifer
+>>>>>>> 5a8ebea4108c4ac5f1ebaeb6428c03585070f6cf
